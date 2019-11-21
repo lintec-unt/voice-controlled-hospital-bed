@@ -24,6 +24,8 @@ In this repository, we have uploaded the codes and files of:
 ### Arduino shield (PCB folder)
 
 ![PCB 3D view][pcb]
+![alt text](https://gitlab.com/lintec-unt/voice-controlled-hospital-bed/blob/master/PCB/PCB3dVIew.jpg "Logo Title Text 1")
+
 
 The arduino UNO board is connected to the hospital bed by the communication port for the wired remote control command. To emulate the buttons of the remote control, we used the GPIO port. As we intended to avoid electrical connection between the Arduino board (and the PC in upstream connection), the connections with the bed and the GPIO ports are between optocouplers. After the optocouplers, there is DIN connector (DIN 41524) that is connected in the bed. the connection between the PC and the Arduino board is by the means of the USB serial port.
 
