@@ -62,22 +62,3 @@ We are open to new ideas, everyone is open to participate in this development, a
 [pcb]: https://gitlab.com/lintec-unt/voice-controlled-hospital-bed/blob/master/PCB/PCB3dVIew.jpg "PCB 3D view"
 [stl]: https://gitlab.com/lintec-unt/voice-controlled-hospital-bed/blob/master/STLCase/snapCase.png  "Case 3D view"
 [window]: https://gitlab.com/lintec-unt/voice-controlled-hospital-bed/blob/master/PCSoftwareCode/window.png  "PC software"
-
-
-
-
-
-
-
-
-El PCB con los optoacopladores que funciona como Shield de Arduino y el diseño del gabinete de contención se encuentra en este repositorio.
-
-El diagrama esquematico de conexión se presenta a continuación:
-
-## Resumen del Software
-
-
-
-Pettinari PM Milenium.
-
-Sofware para la placa de desarrollo Arduino UNO, desarrollado en Arduino IDE bajo las librerias propias de Arduino.
